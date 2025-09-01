@@ -174,3 +174,38 @@ Objetivo: Faça um programa que imprima na tela os números de 1 a 20, um abaixo
 
 ### Classe: Tabuada
 Objetivo: Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
+
+## Lista de Exercícios 4 (Arrays)
+
+### Classe: CompararValores
+Objetivo: Faça o programa que entre com valores inteiros dos vetores A e B, sendo ambos de tamanho 5. O programa deve retornar:
+- -1 -- > Quando A < B.
+- 0 -- > Quando A = B.
+- 1 -- > Quando A > B.
+
+### Classe : DivisoresNumericos
+Objetivo: Faça um programa que entre com o valor inteiro do vetor A de 10 variáveis, em seguida o programa deverá informar os divisores de cada número apresentado.
+
+### Classe: InterseccaoVetores
+Objetivo: Faça um programa que entre com valores inteiros de dois vetores, de mesmo tamanho. O programa deve retornar um novo vetor que represente a intersecção entre os vetores.
+
+### Classe: OrdemCrescente
+Objetivo: Faça um programa que entre com 10 valores inteiros, em seguida deverá apresentar os números digitados em ordem crescente.
+
+### Classe: OrdemDecrescente
+Objetivo: Faça um programa que entre com 10 valores inteiros, em seguida deverá apresentar os números digitados em ordem decrescente.
+
+### Classe: Palindromo
+Objetivo: Faça um programa que leia palavras, mostrando se o mesmo é um palíndromo ou não. (palíndromo: mesma palavra de trás para frente)
+
+### Classe: RotinaBusca
+Objetivo: Faça um programa que leia 10 palavras. O programa deve realizar pesquisas, verificando se a palavra digitada consta no vetor ou não, se sim, mostrar onde se encontra.
+
+### Classe: VerificadorParImpar
+Objetivo: Faça um programa que entre com uma sequência de números. O programa deverá retornar 1 em caso do número ser par, e 0 para ímpar.
+
+### Classe: VetorFatorial
+Objetivo: Faça o programa que leia 10 números inteiros, em seguida, apresente os valores de seus fatoriais(!).
+
+### Classe: VetorIncomum
+Objetivo: Faça um programa que entre com valores inteiros dos vetores A e B. O programa deverá imprimir os valores diferentes da relação entre os dois vetores.
